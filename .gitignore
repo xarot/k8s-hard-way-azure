@@ -1,0 +1,13 @@
+trash/
+*.pem
+*.json
+*.yaml
+*.csr
+*.kubeconfig
+*.tfstate
+*.tfstate.backup
+kubernetes
+modules/dns
+modules/vm-windows
+modules/vnet
+.terraform/
